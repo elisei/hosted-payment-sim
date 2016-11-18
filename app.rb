@@ -10,7 +10,7 @@ class OffsiteGatewaySim < Sinatra::Base
 
   def initialize(base_path: '')
     @base_path = base_path
-    @key = 'iU44RWxeik'
+    @key = '30213iU44RWxeik'
     super
   end
 
